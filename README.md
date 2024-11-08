@@ -1,4 +1,5 @@
 Galeri Web App
+
 A comprehensive web application designed for managing car sales in a gallery setting, built with a Spring Boot. The application handles user registration, authentication, and inventory management, with robust error handling and validation. Also This project fetches real-time currency exchange rates from the Central Bank, enabling accurate and dynamic pricing adjustments based on the latest currency values.
 
 Features
